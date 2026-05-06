@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Привет, я Артём!
 
-<!--
-**Montana19/Montana19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HTML-верстальщик / Junior Frontend-разработчик
 
-Here are some ideas to get you started:
+Стек: HTML5, CSS3, Flexbox/Grid, Bootstrap, JavaScript (Vanilla), Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Обо мне
+
+Инженер-программист по образованию. 15 лет опыта в продажах научили главному — понимать, что нужно заказчику, и соблюдать сроки. Осознанно возвращаюсь в IT: верстаю, изучаю JavaScript и хочу расти до Middle в сильной команде. Ищу работу в веб-студии, диджитал-агентстве или на фриланс-проектах.
+
+---
+
+## 🛠 Ключевые навыки
+
+- Вёрстка: HTML5, CSS3, семантическая и кросс-браузерная
+- Адаптивность: Flexbox, Grid, Mobile First
+- Фреймворки: Bootstrap
+- Инструменты: Git, GitHub, GitHub Pages, Figma
+- JavaScript: Vanilla JS, работа с DOM (в процессе)
+
+---
+
+## 📁 Проекты
+
+### 1. Лендинг (Pixel Perfect)
+Одностраничный промо-сайт по Figma-макету. Чистый HTML и CSS, десктоп.
+- [Посмотреть на GitHub Pages →](https://montana19.github.io/automotive_site/)
+
+### 2. Многостраничный адаптивный сайт
+Корпоративный сайт. Адаптив от 768px до 1920px. Flexbox и Grid.
+- [Посмотреть на GitHub Pages →](https://montana19.github.io/project_builder/)
+
+---
+
+## 📬 Контакты
+
+- Telegram: [@MontyRock](https://t.me/montyrock)
+- Email: tonymonty19@gmail.com
+- Открыт к тестовым заданиям и предложениям
