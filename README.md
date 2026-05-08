@@ -30,7 +30,7 @@
 
 ### 2. Многостраничный адаптивный сайт
 Корпоративный сайт. Адаптив от 768px до 1920px. Flexbox и Grid.
-- [Посмотреть на GitHub Pages →](https://montana19.github.io/project_builder/)
+- [Посмотреть на GitHub Pages →](https://montana19.github.io/multiadaptive_site/)
 
 ---
 
