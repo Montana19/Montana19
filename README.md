@@ -2,7 +2,7 @@
 
 ### HTML-верстальщик / Junior Frontend-разработчик
 
-Стек: HTML5, CSS3, Flexbox/Grid, Bootstrap, JavaScript (Vanilla), Git
+Стек: HTML5, CSS3, Flexbox/Grid, Bootstrap, Materialize CSS, JavaScript (Vanilla), Git
 
 ---
 
@@ -17,7 +17,7 @@
 - Вёрстка: HTML5, CSS3, семантическая и кросс-браузерная
 - Адаптивность: Flexbox, Grid, Mobile First
 - Фреймворки: Bootstrap, Materialize CSS
-- Инструменты: Git, GitHub, GitHub Pages, Figma, Photoshop, VSCode
+- Инструменты: Git, Figma, Photoshop, VSCode
 - JavaScript: Vanilla JS, работа с DOM (в процессе)
 
 ---
