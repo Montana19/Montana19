@@ -17,7 +17,7 @@
 - Вёрстка: HTML5, CSS3, семантическая и кросс-браузерная
 - Адаптивность: Flexbox, Grid, Mobile First
 - Фреймворки: Bootstrap, Materialize CSS
-- Инструменты: Git, Figma, Photoshop, VSCode
+- Инструменты: Git, GitHub, VS Code, Emmet, Figma, Photoshop
 - JavaScript: Vanilla JS, работа с DOM (в процессе)
 
 ---
